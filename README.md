@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WesselKonstantinov
 - 💪 I recently finished learning Full-stack Development @ [https://www.wincacademy.nl](https://www.wincacademy.nl/#). 
 - 👀 My profile consists of projects and exercises I made as part of the curriculum along with a few of my own.
-- 🌱 I will keep building various projects and am currently working on a basic CRUD app using Flask and React.
+- 🌱 I will keep building various projects and am currently learning Laravel by working on a basic blog.
 - 💡 I'm currently looking for an employer in order to build working experience as a junior developer.
 
 <!---
